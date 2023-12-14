@@ -1,6 +1,6 @@
 # inetd
 
-#Basic internet service demon with Python
+# Basic internet service demon with Python
 
 In recent years, due to security limitations in the original inetd design, it has been replaced with xinetd, rlinetd, ucspi-tcp and others on many systems. In particular, GNU/Linux distributions offer many options and macOS (starting from the 10.2 release) uses xinetd . As of Mac OS
 
